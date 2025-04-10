@@ -1,0 +1,21 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "decorator>=5.2.1",
+    "ffmpeg>=1.4",
+    "imageio>=2.37.0",
+    "imageio-ffmpeg>=0.6.0",
+    "moviepy>=2.1.2",
+    "numpy>=2.2.4",
+    "pillow>=10.4.0",
+    "proglog>=0.1.11",
+    "psycopg2-binary>=2.9.10",
+    "requests>=2.32.3",
+    "streamlit>=1.44.1",
+    "tqdm>=4.67.1",
+    "trafilatura>=2.0.0",
+]
